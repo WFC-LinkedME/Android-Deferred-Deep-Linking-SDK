@@ -2,6 +2,7 @@ package io.branch.referral;
 
 /**
  * Define the Applications for the sharing the link with.
+ * 国外的分享平台
  */
 public class SharingHelper {
     /**

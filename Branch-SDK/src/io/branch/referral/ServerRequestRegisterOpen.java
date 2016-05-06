@@ -10,6 +10,7 @@ import org.json.JSONObject;
  * * <p>
  * The server request for registering an app open event to Branch API. Handles request creation and execution.
  * </p>
+ * 用户打开应用时，向服务器发送打开数据接口
  */
 class ServerRequestRegisterOpen extends ServerRequestInitSession {
 

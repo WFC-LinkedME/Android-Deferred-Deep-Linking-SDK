@@ -17,6 +17,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * Abstract class defining the structure of a Branch Server request.
+ * 网路请求接口的抽象基类
  */
 public abstract class ServerRequest {
 

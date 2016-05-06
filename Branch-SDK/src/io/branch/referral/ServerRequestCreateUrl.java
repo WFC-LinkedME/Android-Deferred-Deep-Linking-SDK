@@ -11,6 +11,7 @@ import java.util.Collection;
 /**
  * * <p>
  * The server request for creating a  synchronous or asynchronous short url. Handles request creation and execution.
+ * 创建深度链接接口
  * </p>
  */
 class ServerRequestCreateUrl extends ServerRequest {

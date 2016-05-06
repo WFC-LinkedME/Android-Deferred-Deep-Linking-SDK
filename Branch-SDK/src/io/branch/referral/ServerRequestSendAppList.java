@@ -11,6 +11,7 @@ import org.json.JSONObject;
  * * <p>
  * The server request for sending installed application details to Branch API. Handles request creation and execution.
  * </p>
+ * 搜集手机安装的应用，并向服务器发送
  */
 class ServerRequestSendAppList extends ServerRequest {
 

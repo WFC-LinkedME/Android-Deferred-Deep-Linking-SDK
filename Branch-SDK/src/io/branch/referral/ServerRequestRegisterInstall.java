@@ -10,6 +10,7 @@ import org.json.JSONObject;
  * * <p>
  * The server request for registering an app install to Branch API. Handles request creation and execution.
  * </p>
+ * 第一次安装，向服务器发送安装接口；
  */
 class ServerRequestRegisterInstall extends ServerRequestInitSession {
 

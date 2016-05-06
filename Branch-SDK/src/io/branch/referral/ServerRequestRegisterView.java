@@ -15,6 +15,7 @@ import io.branch.indexing.BranchUniversalObject;
  * * <p>
  * The server request for registering a view event of a specific content specified by user given attributes
  * </p>
+ * 向服务器注册一个View的接口
  */
 class ServerRequestRegisterView extends ServerRequest {
 

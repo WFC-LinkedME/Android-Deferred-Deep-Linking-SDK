@@ -14,6 +14,7 @@ import org.json.JSONObject;
  * <li>{@link ServerResponse#getObject()}</li>
  * <li>{@link ServerResponse#getArray()}</li>
  * </ul>
+ * 服务器返回数据
  */
 public class ServerResponse {
 

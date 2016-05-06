@@ -11,6 +11,7 @@ import org.json.JSONObject;
  * * <p>
  * The server request for closing any open session. Handles request creation and execution.
  * </p>
+ * 手机休眠或退出应用时，向服务器发送关闭数据接口
  */
 class ServerRequestRegisterClose extends ServerRequest {
 
